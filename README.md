@@ -61,9 +61,13 @@ Navigation is implemented using **Power BI bookmarks** and **custom sidebar icon
 
 ---
 
+<img width="2272" height="1310" alt="image" src="https://github.com/user-attachments/assets/3530e026-d420-49f8-ab89-8c4b9977d1b3" />
+
+<img width="2260" height="1306" alt="image" src="https://github.com/user-attachments/assets/edb3f5df-7549-42a7-b465-a0113a4f9c8d" />
+
+---
+
 ## 📁 Repository Contents
-- Project Management Analytics Dashboard.pbix - Final version of dashboard file
-- Project Management BIHARBOR Students.pbix - Row datasets
 - Project Management Dashboard Video.mov - Dashboard video
 - Project Management Dashboard View.pdf - Dashboard photos 
 
